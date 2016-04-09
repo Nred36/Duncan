@@ -37,7 +37,7 @@ public class Duncan extends JApplet implements ActionListener, KeyListener {
 
             @Override
             public void actionPerformed(ActionEvent e) {
-                //this will run every 2 seconds
+             
             }
 
         });

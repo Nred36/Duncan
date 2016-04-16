@@ -71,6 +71,7 @@ public class Duncan extends JApplet implements ActionListener, KeyListener {
 
         //draw here
         myPic.fillRect(300, 700, 30, 12);
+        myPic.drawString("Duncan is a big ol lozer and beats dong", 400, 500);
 
     }
 
